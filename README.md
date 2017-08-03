@@ -1,5 +1,5 @@
 # PaperMeEditor
-An powerful editor for writing papers
+A powerful editor for writing papers
 
 
 ## TODO
